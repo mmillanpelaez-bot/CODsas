@@ -50,3 +50,10 @@ print(generar_prompt("Ciclo de vida de React"))
 
 ---
 
+## Próximos pasos en la investigación
+
+- [x] Investigar sobre LLMs.
+- [x] Crear estructura del Readme.
+- [ ] Analizar el impacto ético en las aulas.
+- [ ] Entrevistar a docentes del ciclo DAM.
+
