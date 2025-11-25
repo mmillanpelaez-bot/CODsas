@@ -41,3 +41,12 @@ def generar_prompt(tema):
     return instruccion
 
 print(generar_prompt("Ciclo de vida de React"))
+
+## Reflexión Final
+
+---
+
+> "La inteligencia artificial no sustituirá a los profesores, pero los profesores que usen IA sustituirán a los que no lo hagan."
+
+---
+
