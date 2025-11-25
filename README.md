@@ -19,3 +19,11 @@ La llegada de la **Inteligencia Artificial** ha supuesto una *revolución* en la
 Para entender mejor este impacto, es vital consultar fuentes como [OpenAI](https://openai.com) o documentación oficial.
 
 ![Concepto de IA y Cerebro](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
+
+## Comparativa: Tradicional vs IA
+
+| Característica | Método Tradicional | Aprendizaje con IA |
+| :--- | :---: | :---: |
+| **Ritmo** | Grupal / Estándar | Individual / Adaptativo |
+| **Fuente** | Libros / Profesor | Base de datos global |
+| **Disponibilidad** | Horario escolar | Ilimitada |
