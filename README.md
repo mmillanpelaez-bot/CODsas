@@ -27,3 +27,17 @@ Para entender mejor este impacto, es vital consultar fuentes como [OpenAI](https
 | **Ritmo** | Grupal / Estándar | Individual / Adaptativo |
 | **Fuente** | Libros / Profesor | Base de datos global |
 | **Disponibilidad** | Horario escolar | Ilimitada |
+
+## Ejemplo de Código: Prompt Engineering
+
+A continuación, un ejemplo de cómo estructurar una petición a una IA mediante código Python:
+
+```python
+def generar_prompt(tema):
+    """
+    Genera un prompt educativo básico.
+    """
+    instruccion = f"Actúa como un profesor experto y explícame: {tema}"
+    return instruccion
+
+print(generar_prompt("Ciclo de vida de React"))
