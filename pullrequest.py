@@ -1,3 +1,3 @@
 num1 = 13
 num2 = 67
-print(f"{suma} = {}")
+print(num1 + num2)
